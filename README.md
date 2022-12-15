@@ -11,4 +11,7 @@ Responsive Web -- bisa langsung disesuikan di file css --> style.css
 - Flower Code : Md Usman Ansari (@MdUsmanAnsari)
 - Index Code : Septian Dwi Cahyo (@Septiandwica)
 
+# Modification
+- Jussy Cheta (@jussy_ez)
+
 Thanks to codepan and mdusmanansari
